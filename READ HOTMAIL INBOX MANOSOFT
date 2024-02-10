@@ -1,0 +1,14 @@
+Chức năng:
+- Hỗ trợ nhập danh sách mail (đọc hàng loạt mail)
+- Nút Next - Previous để chuyển đến mail tiếp theo
+- Đọc 10 Mail đầu tiên
+- Tool đọc email sẽ không bị bắt nhập mail recovery như login ở trình duyệt
+- Đọc mail từ INBOX, SPAM (JUNK)
+
+DOWNLOAD: https://www.mediafire.com/file/skx6kpk24ekm79e/Read+Hotmail+Inbox.zip/file
+UPDATE 24.11.2023 - Hỗ trợ copy link trong mail
+UPDATE 02.02.2024 - Hỗ trợ đọc từ INBOX, SPAM
+
+Nếu bị lỗi không thể xem nội dung mail, cài đặt Webview2:
+
+https://developer.microsoft.com/en-us/microsoft-edge/webview2
